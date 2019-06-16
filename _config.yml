@@ -62,30 +62,15 @@ author:
   avatar : "/assets/images/RainbowHouse.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Angel York"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://angelyork.com/"
+    - label: "Darin Wick"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.darinwick.com/"
+    - label: "Chocolatology"
+      icon: "fa fa-fw fa-book"
+      url: "https://microcosmpublishing.com/catalog/books/1311"
 
 defaults:
   # _posts
