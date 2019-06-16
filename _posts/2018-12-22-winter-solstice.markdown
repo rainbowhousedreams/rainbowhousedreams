@@ -11,6 +11,7 @@ wordpress_id: 12
 categories:
 - 'Annex #2'
 - Rainbow House Gardens
+- Gardens
 tags:
 - cardboard
 - chips
