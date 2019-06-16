@@ -10,6 +10,7 @@ slug: plans-january-edition
 title: 'Plans: January Edition'
 wordpress_id: 24
 categories:
+- Gardens
 - 'Annex #2'
 - Planning
 - Portsmouth Community Garden Plot
