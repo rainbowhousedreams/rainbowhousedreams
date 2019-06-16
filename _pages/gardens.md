@@ -1,5 +1,8 @@
 ---
-permalink: /gardens/
-title: "Rainbow House Gardens"
+title: Gardens
+layout: category
+permalink: /categories/gardens/
+taxonomy: Gardens
 ---
-This page will be about our gardens!  We have several.  
+
+Sample post listing for the category `gardens`.
