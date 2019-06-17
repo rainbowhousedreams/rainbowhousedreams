@@ -12,6 +12,7 @@ wordpress_id: 67
 categories:
 - 'Annex #2'
 - Portsmouth Community Garden Plot
+- Gardens
 tags:
 - potato
 - seeding
