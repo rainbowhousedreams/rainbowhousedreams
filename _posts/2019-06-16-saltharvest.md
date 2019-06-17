@@ -8,7 +8,7 @@ tags:
   - gardens
   
   
-  ## Photo Tour
+
 gallery: #copy/paste the section below to add more images
   - url: https://uc73c220fd630c97978737ecf412.previews.dropboxusercontent.com/p/thumb/AAfr9um7v0CyoIcMXADsmzLvXAlJ9ciinASyorPFJbqXaXnDKNG_ZL4tK-ICo8HyZ3FcelStQbU65OrGjiVbRJPm2OAYYbgWlmKQDQ9qLXsuzTKvTtpLlXHZ3U2ajZbPgLbh096AOYreMezN3ypbdVn1VjaejHC5uQBsezDI9bjSPl69bxMrCeY-b9oOdEyTtU0Cc1O_YcVl0XUsDenfVS-tJcDL0DIBazVrXDu5PHcRNxoTb_3EEfsUZEFqqJ-CqdDJqAjSwy0Bnwo5cDOhx6f6_wEsZQCUWPfUNXM5zAOXujfxGeBEq8DC97HyPCTpEIUVsfX9Juepqh0hS2ImqSxd/p.jpeg # url for full size image
     image_path: https://uc73c220fd630c97978737ecf412.previews.dropboxusercontent.com/p/thumb/AAfr9um7v0CyoIcMXADsmzLvXAlJ9ciinASyorPFJbqXaXnDKNG_ZL4tK-ICo8HyZ3FcelStQbU65OrGjiVbRJPm2OAYYbgWlmKQDQ9qLXsuzTKvTtpLlXHZ3U2ajZbPgLbh096AOYreMezN3ypbdVn1VjaejHC5uQBsezDI9bjSPl69bxMrCeY-b9oOdEyTtU0Cc1O_YcVl0XUsDenfVS-tJcDL0DIBazVrXDu5PHcRNxoTb_3EEfsUZEFqqJ-CqdDJqAjSwy0Bnwo5cDOhx6f6_wEsZQCUWPfUNXM5zAOXujfxGeBEq8DC97HyPCTpEIUVsfX9Juepqh0hS2ImqSxd/p.jpeg # thumbnail (could be same as above, I believe)
@@ -87,7 +87,8 @@ gallery: #copy/paste the section below to add more images
     alt: "A <3 D scratched into the soot of the pot"
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
-
+## Photo Tour
+*Click top left photo for tour.  Occasionally you may need to scroll to see the rest of the captions*
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
 ### Where we went
 <p>
