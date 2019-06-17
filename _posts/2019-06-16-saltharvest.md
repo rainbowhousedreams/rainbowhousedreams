@@ -85,7 +85,7 @@ gallery: #copy/paste the section below to add more images
   - url: https://uc54f68fc00383f48ad6cc104cb0.previews.dropboxusercontent.com/p/thumb/AAexn2G3l1Z_njdltifvV2OsXln7mW_wHr2AjVKTkEwUWw7vtzs8venUcM8UUkTt32-1n2uiOHbkCkM6NNbfG6YpcGi4sf6kF5yKnTelk2Q5Fxt1tZoxGsD5Sjsj9HFgJShH40_PG1-oyK07k8DYE7XK50TNKK3zWhwR8wAManEp-QOwWbXWa4-9hZTAJHiPyKQEx85a0lwVow3cevQ2nTjJqaPrIndjdzyYjrePSBAyQKMUzxp6x6atAgxP8Sn_BwJTUtuL9aK3HvOiA8_RXItQtH-wZw8hMuEhoWKX2pt3fWF4n9fvgLplPoPYhRyVmW4KGr_QnzpxNLixr4HQTxSnp29-avj5foT26MONMxUR7UEg0Hpjoo2zDa9JUXRX000/p.jpeg
     image_path: https://uc54f68fc00383f48ad6cc104cb0.previews.dropboxusercontent.com/p/thumb/AAexn2G3l1Z_njdltifvV2OsXln7mW_wHr2AjVKTkEwUWw7vtzs8venUcM8UUkTt32-1n2uiOHbkCkM6NNbfG6YpcGi4sf6kF5yKnTelk2Q5Fxt1tZoxGsD5Sjsj9HFgJShH40_PG1-oyK07k8DYE7XK50TNKK3zWhwR8wAManEp-QOwWbXWa4-9hZTAJHiPyKQEx85a0lwVow3cevQ2nTjJqaPrIndjdzyYjrePSBAyQKMUzxp6x6atAgxP8Sn_BwJTUtuL9aK3HvOiA8_RXItQtH-wZw8hMuEhoWKX2pt3fWF4n9fvgLplPoPYhRyVmW4KGr_QnzpxNLixr4HQTxSnp29-avj5foT26MONMxUR7UEg0Hpjoo2zDa9JUXRX000/p.jpeg
     alt: "A <3 D scratched into the soot of the pot"
-    title: "And thus the tale in which we biked to the coast and harvested salt from the ocean"  
+    title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
@@ -123,5 +123,5 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 - [Tillamook Coast Area Map](https://www.1001-map.com/l8/media.php/1-392-2.pdf)
 - [2019 Tide Tables](https://oregonstateparks.org/index.cfm?do=main.loadFile&load=_siteFiles%2Fpublications%2F44255_2019_oprd_tide_tables%28web%29033452.pdf)
 - [Bike There!](https://www.oregonmetro.gov/tools-living/getting-around/bike-there) We have a print copy
-- [Nestucca River Recreation Area Map](https://live.staticflickr.com/5331/30696276895_2d41684d2b_k.jpg) [via](https://www.blm.gov/visit/nestucca-river-recreation-area)
+- [Nestucca River Recreation Area Map](https://live.staticflickr.com/5331/30696276895_2d41684d2b_k.jpg#) [via](https://www.blm.gov/visit/nestucca-river-recreation-area)
 - [Oregon's Washington County Bike Map](https://tualatinvalley.org/maps-guides-form/) [via](https://tualatinvalley.org/cycling-in-the-tualatin-valley/)
