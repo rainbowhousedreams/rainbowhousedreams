@@ -4,6 +4,7 @@ comments: true
 date: 2019-01-21 04:50:49+00:00
 slug: seed-sorting
 title: Seed Sorting
+excerpt: We have so many seeds!
 wordpress_id: 35
 categories:
 - Planning
