@@ -1,7 +1,7 @@
 ---
 title: Gardens
 layout: category
-permalink: /categories/gardens/
+permalink: /gardens/
 taxonomy: Gardens
 ---
 
