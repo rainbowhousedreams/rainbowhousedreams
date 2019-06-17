@@ -4,8 +4,6 @@ comments: true
 date: 2019-02-05 06:20:02+00:00
 excerpt: It's either earliest spring or late late winter.  Either way, we've been
   busy in the gardens!
-layout: post
-link: http://gardensofrainbow.home.blog/2019/02/04/weve-been-busy/
 slug: weve-been-busy
 title: We've been busy!
 wordpress_id: 42
