@@ -2,7 +2,7 @@
 author: yorkangel
 comments: true
 date: 2019-04-10 04:38:37+00:00
-excerpt: here's what we've been up to in our pedal-powered (solar powered) garden
+excerpt: Here's what we've been up to in our pedal-powered (solar powered) garden
   lately.
 slug: the-latest
 title: The Latest
