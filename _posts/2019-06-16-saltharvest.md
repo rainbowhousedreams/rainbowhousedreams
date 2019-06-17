@@ -1,8 +1,9 @@
 ---
-title: "Salt Harvest"
+title: "Salt Harvest 2019"
 date: 2019-06-16
 categories:
   - blog
+  - Gardens
 tags:
   - gardens
   
