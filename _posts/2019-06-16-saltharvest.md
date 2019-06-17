@@ -99,6 +99,12 @@ gallery: #copy/paste the section below to add more images
 *Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
 {% include gallery caption="In which we harvested salt at the Oregon Coast" %}
 
+### Where we went
+<p>
+We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
+  
+  At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
+
 ### Next time
 <p>Next year, we will stay at Cape Lookout, harvest 20 gallons from Netarts Bay (after confirming that it's really actually ok to harvest ocean from a shellfish preserve?!), and take a couple late nights to boil the water down.  FYI, potatoes boiled over a campfire are delicious.  Next year, we're making a batch of nettle salt.</p>
 
@@ -116,12 +122,6 @@ gallery: #copy/paste the section below to add more images
 - lighter
 - 3 books per person is not enough
 - pile of maps
-
-### Where we went
-<p>
-We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
-  
-  At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
 
 ### Maps we packed included
 - [Hillsboro to Carlton & Carlton to Highway 101](https://www.portlandoregon.gov/transportation/article/316552) [via](https://www.portlandoregon.gov/transportation/article/301633)
