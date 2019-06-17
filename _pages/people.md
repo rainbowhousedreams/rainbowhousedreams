@@ -5,9 +5,8 @@ permalink: /people/
 taxonomy: People
 ---
 
-<img src="/assets/images/angel%20darin%20rainbow%20house%202019.png" width=33% height=auto alt="Angel and Darin in front of the rainbow house">
+<img src="/assets/images/angel darin rainbow house 2019.png" width=33% height=auto alt="Angel and Darin in front of the rainbow house">
 
-![image](/assets/images/angel%20darin%20rainbow%20house%202019.png)
 ## We live here
 - [Angel York](https://angelyork.com/)
 - [Darin Wick](https://darinwick.com/)
