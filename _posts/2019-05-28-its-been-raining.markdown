@@ -3,8 +3,6 @@ author: yorkangel
 comments: true
 date: 2019-05-28 04:43:11+00:00
 excerpt: Gardens update from North Portland, Oregon.
-layout: post
-link: http://gardensofrainbow.home.blog/2019/05/27/its-been-raining/
 slug: its-been-raining
 title: It's been raining
 wordpress_id: 81
