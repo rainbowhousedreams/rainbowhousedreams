@@ -88,16 +88,11 @@ gallery: #copy/paste the section below to add more images
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
 
-### Where we went
-<p>
-We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
-  
-  At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
-
 ### Quantities: salt, ocean, firewood
 - It takes about **2-3 standard campground bundles of wood** to boil off one 5-gallon bucket of water.  
 - The ocean is about 3% salt, so **5 gallons of water contains about a pound of salt.**  
 - A quick internet search and a bit of math tells me that, nutritionally speaking, you need definitely less than two pounds of salt, but maybe a bit more than a pound of salt per person per year.  So the salt from **10 gallons of ocean** (which we harvested in a day, but didn't time it well, and were hot in the midday and done before the mosquitoes came out at night) should be **enough for one person for a year.**  
+
 
 ### Photo Tour
 *Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
@@ -120,6 +115,12 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 - lighter
 - 3 books per person is not enough
 - pile of maps
+
+### Where we went
+<p>
+We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
+  
+  At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
 
 ### Maps we packed included
 - [Hillsboro to Carlton & Carlton to Highway 101](https://www.portlandoregon.gov/transportation/article/316552) [via](https://www.portlandoregon.gov/transportation/article/301633)
