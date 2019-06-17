@@ -104,6 +104,7 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 ### Packing list included
 - clothes for rain
 - clothes for sun
+- toothbrushes, toothpaste, floss, sunscreen, and the like
 - tent, sleeping pads, sleeping bags
 - piles of food, including food in glass jars so that we could eat the food, wash the jars, and have somewhere to put the salt
 - water filter & water bottles
