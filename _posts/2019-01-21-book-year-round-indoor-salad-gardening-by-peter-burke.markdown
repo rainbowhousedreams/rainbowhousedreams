@@ -6,8 +6,6 @@ excerpt: 'Peter Burke envisions a world where everyone grows salad in their wind
   According to Burke, you can easily grow 50-70lbs of greens (soil sprouts, really)
   per year with a window, a few shelves, some sprouting trays, and a few bales of
   soil mix.  '
-layout: post
-link: http://gardensofrainbow.home.blog/2019/01/20/book-year-round-indoor-salad-gardening-by-peter-burke/
 slug: book-year-round-indoor-salad-gardening-by-peter-burke
 title: 'Book: Year-Round Indoor Salad Gardening by Peter Burke'
 wordpress_id: 38
