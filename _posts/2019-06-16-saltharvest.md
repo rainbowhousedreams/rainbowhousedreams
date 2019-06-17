@@ -63,14 +63,6 @@ gallery:
     image_path: assets/images/salt-harvest-2019/12.jpg # thumbnail (could be same as above, I believe)
     alt: "Close-up of Darin with soot on his face"
     title: "Soot everywhere"  
-  - url: assets/images/salt-harvest-2019/13.jpg # url for full size image
-    image_path: assets/images/salt-harvest-2019/13.jpg # thumbnail (could be same as above, I believe)
-    alt: "The water has been boiled down and is starting to look salty"
-    title: "Near the end, we condensed the two pots into one."  
-  - url: assets/images/salt-harvest-2019/14.jpg # url for full size image
-    image_path: assets/images/salt-harvest-2019/14.jpg # thumbnail (could be same as above, I believe)
-    alt: "close-up of the salty sludge in the pot - the top is crusting over"
-    title: "Salt, water, and a bit of soot"  
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
