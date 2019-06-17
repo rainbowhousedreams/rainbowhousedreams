@@ -2,8 +2,6 @@
 author: yorkangel
 comments: true
 date: 2019-03-18 00:30:46+00:00
-layout: post
-link: http://gardensofrainbow.home.blog/2019/03/17/what-weve-been-up-to/
 slug: what-weve-been-up-to
 title: What we've been up to
 wordpress_id: 63
