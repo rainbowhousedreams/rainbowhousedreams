@@ -3,8 +3,6 @@ author: yorkangel
 comments: true
 date: 2018-12-22 04:00:37+00:00
 excerpt: Small-scale farming (by bike!) off to a good start.
-layout: post
-link: http://gardensofrainbow.home.blog/2018/12/21/winter-solstice/
 slug: winter-solstice
 title: Winter Solstice
 wordpress_id: 12
