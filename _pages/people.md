@@ -5,11 +5,11 @@ permalink: /people/
 taxonomy: People
 ---
 
-##We live here
+## We live here
 - [Angel York](https://angelyork.com/)
 - [Darin Wick](https://darinwick.com/)
 
-##Guests
+## Guests
 - [Couchsurfing](https://www.couchsurfing.com/people/rainbowhouse)
 - [Warm Showers](https://www.warmshowers.org/users/nectarine) (login required)
 - [Workaway](https://www.workaway.info/191485637641-en.html)
