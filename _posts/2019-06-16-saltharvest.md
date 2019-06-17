@@ -108,20 +108,47 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 ### Next time
 <p>Next year, we will stay at Cape Lookout, harvest 20 gallons from Netarts Bay (after confirming that it's really actually ok to harvest ocean from a shellfish preserve?!), and take a couple late nights to boil the water down.  FYI, potatoes boiled over a campfire are delicious.  Next year, we're making a batch of nettle salt.</p>
 
-### Packing list included
-- clothes for rain
-- clothes for sun
-- toothbrushes, toothpaste, floss, sunscreen, and the like
-- tent, sleeping pads, sleeping bags
-- piles of food, including food in glass jars so that we could eat the food, wash the jars, and have somewhere to put the salt
-- water filter & water bottles
-- money (for when we stayed at campgrounds, firewood, and more food)
-- our tamale pot and a borrowed large camping pot
-- 5-gallon plastic pickle bucket from next to a deli dumpster
-- bucket lid
-- lighter
-- 3 books per person is not enough
-- pile of maps
+### Recipe for Salt
+We used Oregon ocean water from between Whalen Island and Pacific City, but water from a bay already carefully selected by a salt company might be even more ideal.  Netarts Bay, for example.
+
+We used about 2-3 bundles of wood for 5 gallons of ocean, but less may be needed.  Please note: We're amateurs.  We've done this one time.  This recipe is a distillation of our single experience.
+
+*Makes about one pound*
+*Takes one afternoon to one day*
+
+#### Ingredients
+- 5 gallons ocean water (cleanest available source)
+
+#### Equipment
+- Food-grade 5-gallon bucket with lid (commonly found free & lightly-used at delicatessens)
+- Campfire pit
+- Lighter or matches
+- 2-3 bundles of wood, possibly less
+- Kindling
+- Large pot
+- Ladle
+- Metal screen lid & tongs or similar to remove it when it's hot *optional*
+- [Skimmer](https://en.wikipedia.org/wiki/Skimmer_(utensil)) *optional*
+- 2-3 Glass jars
+- Flat tray
+
+#### Instructions
+Go to the ocean.  We harvested ocean water when the tide was coming in.  Fill the bucket with ocean water.  Return any jellyfish to their preferred, non-boiling environment.  Put the lid on the bucket.  Head back to camp.  
+
+Wait until maybe half an hour before the mosquitoes come out for the evening.  
+
+At the campfire pit, start a fire using the lighter or matches, kindling, and wood.     
+
+Put the large pot over the fire, and ladle a couple gallons of the ocean from the bucket into the pot.  The reason to ladle the ocean instead of pouring is so that the sand stays in the bottom of the bucket.  If you don't want a few ashes from the fire in your salt, cover the pot with a metal screen lid.  We haven't tested this, but expect it would work.
+
+Boil. Add wood to the fire as needed to keep the pot boiling.  Boil some more.  Keep on boiling!  It will look like water for a long time.  We kept the pot about 1/3 full until we ran out of ocean water.  
+
+Eventually, the salt water will develop a crust.  At this stage, use the skimmer to transfer the salt to the glass jar.  Continue skimming.  When you feel done, pour any excess water into another glass jar.  Make sure you keep ALL the water.  If you don't have enough space in your jars to keep all the processed ocean water, keep boiling.  That stuff is salty!  Taste it and see!
+
+Take the full glass jars home and pour/spread their contents into a tray.  Put the tray in the sun.  Let dry.
+
+#### Nettle Salt (*untested variation*)
+Harvest nettle similar prior to or en route to the coast.  Boil the nettle in the ocean water.  Leave the nettle in until it is thoroughly coated in salt crystals.  Store with the rest of the salt/salt water.  Sun-dry separately.  Shatter or grind using a mortar & pestle.  
 
 ### Maps we packed included
 - [Hillsboro to Carlton & Carlton to Highway 101](https://www.portlandoregon.gov/transportation/article/316552) [via](https://www.portlandoregon.gov/transportation/article/301633)
