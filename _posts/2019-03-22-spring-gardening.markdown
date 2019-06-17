@@ -12,6 +12,7 @@ categories:
 - 'Annex #2'
 - Portsmouth Community Garden Plot
 - Rainbow House Gardens
+- Gardens
 tags:
 - carrots
 - compost
