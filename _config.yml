@@ -72,6 +72,11 @@ author:
       url: "https://microcosmpublishing.com/catalog/books/1311"
 
 defaults:
+  # _everything
+  - scope:
+      path: ""
+    values:
+      author_profile: false
   # _posts
   - scope:
       path: ""
