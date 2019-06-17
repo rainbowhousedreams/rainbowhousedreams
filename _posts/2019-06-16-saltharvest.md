@@ -59,6 +59,10 @@ gallery:
     image_path: assets/images/salt-harvest-2019/11.jpg # thumbnail (could be same as above, I believe)
     alt: "Two pots of ocean water sit on a grate over the campfire"
     title: "Boiling a small patch of ocean"  
+  - url: assets/images/salt-harvest-2019/12.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/12.jpg # thumbnail (could be same as above, I believe)
+    alt: "Close-up of Darin with soot on his face"
+    title: "Soot everywhere"  
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
