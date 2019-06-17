@@ -84,7 +84,7 @@ gallery: #copy/paste the section below to add more images
     alt: "black pot, silver lid"
     title: "The pot used to be the color of the lid.  "  
   - url: https://dl.dropboxusercontent.com/s/4x2ebwbasilzhcw/17.jpg
-    image_path: hhttps://dl.dropboxusercontent.com/s/4x2ebwbasilzhcw/17.jpg
+    image_path: https://dl.dropboxusercontent.com/s/4x2ebwbasilzhcw/17.jpg
     alt: "A <3 D scratched into the soot of the pot"
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
