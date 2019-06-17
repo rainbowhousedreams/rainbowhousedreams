@@ -137,7 +137,7 @@ Go to the ocean.  We harvested ocean water when the tide was coming in.  Fill th
 
 Wait until maybe half an hour before the mosquitoes come out for the evening.  
 
-At the campfire pit, start a fire using the lighter or matches, kindling, and wood.     
+At the campfire pit, start a fire using the lighter or matches, kindling, and wood.  (For tips on starting a fire: [1](https://www.npr.org/news/graphics/2012/06/NPR-summer-science-campfire.pdf) and [2](https://www.outsideonline.com/2392462/how-to-build-a-fire))
 
 Put the large pot over the fire, and ladle a couple gallons of the ocean from the bucket into the pot.  The reason to ladle the ocean instead of pouring is so that the sand stays in the bottom of the bucket.  If you don't want a few ashes from the fire in your salt, cover the pot with a metal screen lid.  We haven't tested this, but expect it would work.
 
