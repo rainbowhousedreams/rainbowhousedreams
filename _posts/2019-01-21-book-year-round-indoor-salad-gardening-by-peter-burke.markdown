@@ -13,6 +13,7 @@ title: 'Book: Year-Round Indoor Salad Gardening by Peter Burke'
 wordpress_id: 38
 categories:
 - Current Reading
+- Gardens
 tags:
 - greens
 - indoor
