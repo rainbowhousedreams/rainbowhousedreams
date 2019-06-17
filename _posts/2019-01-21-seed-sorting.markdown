@@ -2,8 +2,6 @@
 author: darinwick
 comments: true
 date: 2019-01-21 04:50:49+00:00
-layout: post
-link: http://gardensofrainbow.home.blog/2019/01/20/seed-sorting/
 slug: seed-sorting
 title: Seed Sorting
 wordpress_id: 35
