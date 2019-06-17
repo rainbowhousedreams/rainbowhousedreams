@@ -6,7 +6,7 @@ categories:
   - Gardens
 tags:
   - gardens
-  ---
+  
   
   ## Photo Tour
 gallery: #copy/paste the section below to add more images
