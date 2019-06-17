@@ -13,6 +13,7 @@ categories:
 - Portsmouth Community Garden Plot
 - Rainbow House
 - Rainbow House Gardens
+- Gardens
 tags:
 - compost
 - garlic
