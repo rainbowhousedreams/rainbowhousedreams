@@ -92,7 +92,9 @@ gallery: #copy/paste the section below to add more images
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
 ### Where we went
 <p>
-We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
+We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
+  
+  At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
 
 ### Quantities: salt, ocean, firewood
 - It takes about **2-3 standard campground bundles of wood** to boil off one 5-gallon bucket of water.  
