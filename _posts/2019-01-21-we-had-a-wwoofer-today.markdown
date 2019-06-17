@@ -2,8 +2,6 @@
 author: yorkangel
 comments: true
 date: 2019-01-21 03:41:25+00:00
-layout: post
-link: http://gardensofrainbow.home.blog/2019/01/20/we-had-a-wwoofer-today/
 slug: we-had-a-wwoofer-today
 title: We had a WWOOFer today!
 wordpress_id: 36
