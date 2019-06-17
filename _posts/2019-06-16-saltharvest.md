@@ -87,8 +87,8 @@ gallery: #copy/paste the section below to add more images
     alt: "A <3 D scratched into the soot of the pot"
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
-## Photo Tour
-*Click top left photo for tour.  Occasionally you may need to scroll to see the rest of the captions*
+### Photo Tour
+*Click top left photo to start the tour.  Occasionally you may need to scroll to see the rest of the captions*
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
 ### Where we went
 <p>
