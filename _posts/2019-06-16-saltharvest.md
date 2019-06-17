@@ -88,7 +88,7 @@ gallery: #copy/paste the section below to add more images
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
 ### Photo Tour
-*Click top left photo to start the tour.  Occasionally you may need to scroll to see the rest of the captions*
+*Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
 ### Where we went
 <p>
