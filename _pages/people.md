@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 
-<img style="float: right;" src="/assets/images/angel darin rainbow house 2019.png" width="33%" height="auto" alt="Angel and Darin in front of the rainbow house">
+<img style="float: right; border: 1px solid #ddd; border-radius: 4px; padding: 5px;" src="/assets/images/angel darin rainbow house 2019.png" width="33%" height="auto" alt="Angel and Darin in front of the rainbow house">
 
 
 ## We live here
