@@ -10,6 +10,7 @@ wordpress_id: 43
 categories:
 - 'Annex #2'
 - Planning
+- Gardens
 tags:
 - peas
 - trellis
