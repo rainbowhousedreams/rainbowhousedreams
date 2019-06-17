@@ -3,8 +3,6 @@ author: yorkangel
 comments: true
 date: 2019-01-06 00:43:46+00:00
 excerpt: what we've been up to, and winter garden planning
-layout: post
-link: http://gardensofrainbow.home.blog/2019/01/05/planning-season/
 slug: planning-season
 title: Planning Season
 wordpress_id: 31
