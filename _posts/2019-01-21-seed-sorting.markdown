@@ -9,6 +9,7 @@ title: Seed Sorting
 wordpress_id: 35
 categories:
 - Planning
+- Gardens
 tags:
 - Corn
 - Eggplant
