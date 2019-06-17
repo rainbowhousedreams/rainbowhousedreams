@@ -87,9 +87,7 @@ gallery: #copy/paste the section below to add more images
     alt: "A <3 D scratched into the soot of the pot"
     title: "And thus ends the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
-### Photo Tour
-*Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
-{% include gallery caption="In which we harvested salt at the Oregon Coast" %}
+
 ### Where we went
 <p>
 We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
@@ -100,6 +98,10 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 - It takes about **2-3 standard campground bundles of wood** to boil off one 5-gallon bucket of water.  
 - The ocean is about 3% salt, so **5 gallons of water contains about a pound of salt.**  
 - A quick internet search and a bit of math tells me that, nutritionally speaking, you need definitely less than two pounds of salt, but maybe a bit more than a pound of salt per person per year.  So the salt from **10 gallons of ocean** (which we harvested in a day, but didn't time it well, and were hot in the midday and done before the mosquitoes came out at night) should be **enough for one person for a year.**  
+
+### Photo Tour
+*Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
+{% include gallery caption="In which we harvested salt at the Oregon Coast" %}
 
 ### Next time
 <p>Next year, we will stay at Cape Lookout, harvest 20 gallons from Netarts Bay (after confirming that it's really actually ok to harvest ocean from a shellfish preserve?!), and take a couple late nights to boil the water down.  FYI, potatoes boiled over a campfire are delicious.  Next year, we're making a batch of nettle salt.</p>
