@@ -51,4 +51,4 @@ We picked up some peat moss to use as the base of a seed-starting mix for the bl
 
 All of which is to say, we're a whole lot better prepared for starting seeds that I was last spring, when I was working with trash-bag-lined trays, salvaged plastic pots, a constant shortage of starting mix, a cold house, and partially-shaded windowsills.
 
-Oh, and here's a good video about soil blocking: https://www.youtube.com/watch?v=NIPg02U82rI
+Oh, and here's a good video about soil blocking: [https://www.youtube.com/watch?v=NIPg02U82rI](https://www.youtube.com/watch?v=NIPg02U82rI)
