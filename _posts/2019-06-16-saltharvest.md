@@ -6,7 +6,7 @@ categories:
   - Gardens
 tags:
   - gardens
-  ##Photo Tour of our Salt Harvest
+  ## Photo Tour of our Salt Harvest
 gallery: #copy/paste the section below to add more images
   - url: https://uc73c220fd630c97978737ecf412.previews.dropboxusercontent.com/p/thumb/AAfr9um7v0CyoIcMXADsmzLvXAlJ9ciinASyorPFJbqXaXnDKNG_ZL4tK-ICo8HyZ3FcelStQbU65OrGjiVbRJPm2OAYYbgWlmKQDQ9qLXsuzTKvTtpLlXHZ3U2ajZbPgLbh096AOYreMezN3ypbdVn1VjaejHC5uQBsezDI9bjSPl69bxMrCeY-b9oOdEyTtU0Cc1O_YcVl0XUsDenfVS-tJcDL0DIBazVrXDu5PHcRNxoTb_3EEfsUZEFqqJ-CqdDJqAjSwy0Bnwo5cDOhx6f6_wEsZQCUWPfUNXM5zAOXujfxGeBEq8DC97HyPCTpEIUVsfX9Juepqh0hS2ImqSxd/p.jpeg?fv_content=true&size_mode=5 # url for full size image
     image_path: https://uc73c220fd630c97978737ecf412.previews.dropboxusercontent.com/p/thumb/AAfr9um7v0CyoIcMXADsmzLvXAlJ9ciinASyorPFJbqXaXnDKNG_ZL4tK-ICo8HyZ3FcelStQbU65OrGjiVbRJPm2OAYYbgWlmKQDQ9qLXsuzTKvTtpLlXHZ3U2ajZbPgLbh096AOYreMezN3ypbdVn1VjaejHC5uQBsezDI9bjSPl69bxMrCeY-b9oOdEyTtU0Cc1O_YcVl0XUsDenfVS-tJcDL0DIBazVrXDu5PHcRNxoTb_3EEfsUZEFqqJ-CqdDJqAjSwy0Bnwo5cDOhx6f6_wEsZQCUWPfUNXM5zAOXujfxGeBEq8DC97HyPCTpEIUVsfX9Juepqh0hS2ImqSxd/p.jpeg?fv_content=true&size_mode=5 # thumbnail (could be same as above, I believe)
@@ -87,17 +87,17 @@ gallery: #copy/paste the section below to add more images
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
-###Where we went
+### Where we went
 <p>
 We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   At the time, we didn't realize Jacobsen Salt does this just down the road from where we harvested.   They tested the ocean in 25 places and chose to harvest from the Netarts Bay Shellfish Preserve.  A local told us that they heard the oysters purify the water extra, but the water we got was pretty amazingly clear, too.  We figure the stuff not much more than 10 miles away is probably pretty ok.</p>
 
-###Quantities: salt, ocean, firewood
+### Quantities: salt, ocean, firewood
 <p>It takes about 2-3 standard campground bundles of wood to boil off one 5-gallon bucket of water.  The ocean is about 3% salt, so 5 gallons of water contains about a pound of salt.  A quick internet search and a bit of math tells me that, nutritionally speaking, you need definitely less than two pounds of salt, but maybe a bit more than a pound of salt per person per year.  So the salt we harvested from 10 gallons of ocean (which we did in a day, but didn't time it well, and were hot in the midday and done before the mosquitoes came out at night) should be enough for one person for a year.  </p>
 
-###Next time
+### Next time
 <p>Next year, we will stay at Cape Lookout, harvest 20 gallons from Netarts Bay (after confirming that it's really actually ok to harvest ocean from a shellfish preserve?!), and take a couple late nights to boil the water down.  FYI, potatoes boiled over a campfire are delicious.  Next year, we're making a batch of nettle salt.</p>
 
-###Packing list included
+### Packing list included
 - clothes for rain
 - clothes for sun
 - tent, sleeping pads, sleeping bags
@@ -111,7 +111,7 @@ We biked from Portland down to the Whalen Island County Campground via Champoeg 
 - 3 books per person is not enough
 - pile of maps
 
-###Maps we packed included
+### Maps we packed included
 - [Hillsboro to Carlton & Carlton to Highway 101](https://www.portlandoregon.gov/transportation/article/316552) [via](https://www.portlandoregon.gov/transportation/article/301633)
 - Google maps printout for Beaver to 18242-18866 Sandlake Rd, Cloverdale
 - Oregon Coast Bicycle Route Map & Oregon State Bicycle Map by [ODOT](https://www.oregon.gov/odot/programs/pages/bikeped.aspx)
