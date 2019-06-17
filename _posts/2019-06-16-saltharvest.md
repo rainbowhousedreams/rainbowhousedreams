@@ -1,6 +1,7 @@
 ---
 title: "Salt Harvest 2019"
 date: 2019-06-16
+excerpt: Turns out the ocean is full of salt.  So we biked out and harvested some.  Here's how.
 categories:
   - blog
   - Gardens
