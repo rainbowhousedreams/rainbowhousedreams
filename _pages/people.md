@@ -1,10 +1,8 @@
 ---
 title: People
-layout: category
 permalink: /people/
-taxonomy: People
 ---
-t
+
 
 <img src="/assets/images/angel darin rainbow house 2019.png" width=33% height=auto alt="Angel and Darin in front of the rainbow house">
 
