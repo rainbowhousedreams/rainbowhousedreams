@@ -2,8 +2,6 @@
 author: darinwick
 comments: true
 date: 2019-02-05 06:21:03+00:00
-layout: post
-link: http://gardensofrainbow.home.blog/2019/02/04/peas-trellis/
 slug: peas-trellis
 title: Peas & Trellis
 wordpress_id: 43
