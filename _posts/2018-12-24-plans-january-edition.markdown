@@ -4,8 +4,6 @@ comments: true
 date: 2018-12-24 19:21:24+00:00
 excerpt: In about a month we'll start seeding lots of early spring crops - hardy greens,
   radishes, onions, and more garlic....
-layout: post
-link: http://gardensofrainbow.home.blog/2018/12/24/plans-january-edition/
 slug: plans-january-edition
 title: 'Plans: January Edition'
 wordpress_id: 24
