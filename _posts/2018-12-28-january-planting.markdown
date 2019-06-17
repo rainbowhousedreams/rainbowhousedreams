@@ -11,6 +11,7 @@ categories:
 - 'Annex #2'
 - Current Reading
 - Planning
+- Gardens
 tags:
 - artichoke
 - arugula
