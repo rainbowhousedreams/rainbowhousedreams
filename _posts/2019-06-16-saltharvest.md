@@ -89,7 +89,7 @@ gallery: #copy/paste the section below to add more images
 ---
 ### Photo Tour
 *Click top left photo to start the tour.  Occasionally you may need to scroll down a little to see the rest of a caption*
-{% include gallery caption="In which we harvest salt at the Oregon Coast" %}
+{% include gallery caption="In which we harvested salt at the Oregon Coast" %}
 ### Where we went
 <p>
 We biked from Portland down to the Whalen Island County Campground via Champoeg Campground and the Nestucca River National Back Country Byway.  We were going to stay at Cape Lookout, but there was one more hill in that direction, and it was late.  So we went south instead of north.   
