@@ -2,8 +2,6 @@
 author: yorkangel
 comments: true
 date: 2018-12-28 20:28:44+00:00
-layout: post
-link: http://gardensofrainbow.home.blog/2018/12/28/january-planting/
 slug: january-planting
 title: January Planting
 wordpress_id: 22
