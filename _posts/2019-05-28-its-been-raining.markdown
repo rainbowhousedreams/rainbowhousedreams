@@ -14,6 +14,7 @@ categories:
 - Planning
 - Rainbow House Gardens
 - Sunflower Patch
+- Gardens
 tags:
 - garden update
 ---
