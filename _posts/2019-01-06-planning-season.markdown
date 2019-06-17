@@ -12,6 +12,7 @@ categories:
 - Current Reading
 - Planning
 - Rainbow House
+- Gardens
 tags:
 - compost
 - hauling by bike
