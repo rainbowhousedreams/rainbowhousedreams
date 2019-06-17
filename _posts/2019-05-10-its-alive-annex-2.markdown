@@ -4,8 +4,6 @@ comments: true
 date: 2019-05-10 17:30:55+00:00
 excerpt: 'The first plantings at Annex #2 are starting to fill out, and a few things
   are even ready to harvest!'
-layout: post
-link: http://gardensofrainbow.home.blog/2019/05/10/its-alive-annex-2/
 slug: its-alive-annex-2
 title: 'It''s Alive! (Annex #2)'
 wordpress_id: 70
