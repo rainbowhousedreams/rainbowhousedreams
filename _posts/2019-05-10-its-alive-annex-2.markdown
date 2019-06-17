@@ -11,6 +11,7 @@ title: 'It''s Alive! (Annex #2)'
 wordpress_id: 70
 categories:
 - 'Annex #2'
+- Gardens
 tags:
 - arugula
 - cabbage
