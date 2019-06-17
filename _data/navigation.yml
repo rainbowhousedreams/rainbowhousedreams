@@ -1,9 +1,7 @@
 main:
   - title: "Gardens"
     url: /gardens/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Sprouts"
+    url: /sprouts/
+  - title: "People"
+    url: /People/
