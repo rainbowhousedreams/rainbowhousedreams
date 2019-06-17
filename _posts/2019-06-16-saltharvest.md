@@ -71,6 +71,18 @@ gallery:
     image_path: assets/images/salt-harvest-2019/14.jpg # thumbnail (could be same as above, I believe)
     alt: "close-up of the salty sludge in the pot - the top is crusting over"
     title: "Salt, water, and a bit of soot"   
+  - url: assets/images/salt-harvest-2019/15.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/15.jpg # thumbnail (could be same as above, I believe)
+    alt: "Ladling salt out of the pot with a slotted (dotted?) spoon"
+    title: "Ladling salt sludge into a jar to sun-dry when we get back to Portland"  
+  - url: assets/images/salt-harvest-2019/16.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/16.jpg # thumbnail (could be same as above, I believe)
+    alt: "black pot, silver lid"
+    title: "The pot used to be the color of the lid.  "  
+  - url: assets/images/salt-harvest-2019/17.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/17.jpg # thumbnail (could be same as above, I believe)
+    alt: "A <3 D scratched into the soot of the pot"
+    title: "And thus the tale in which we biked to the coast and harvested salt from the ocean"  
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
