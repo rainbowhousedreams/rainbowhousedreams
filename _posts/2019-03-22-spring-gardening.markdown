@@ -3,8 +3,6 @@ author: yorkangel
 comments: true
 date: 2019-03-22 03:41:45+00:00
 excerpt: A productive few days with our WWOOFer
-layout: post
-link: http://gardensofrainbow.home.blog/2019/03/21/spring-gardening/
 slug: spring-gardening
 title: Spring Gardening
 wordpress_id: 65
