@@ -4,8 +4,6 @@ comments: true
 date: 2019-02-09 06:58:44+00:00
 excerpt: This is about SUNFLOWERS.  Our plans for growing a "Geurilla Garden" sunflower
   patch this summer.
-layout: post
-link: http://gardensofrainbow.home.blog/2019/02/08/sunflowers/
 slug: sunflowers
 title: Sunflowers
 wordpress_id: 48
