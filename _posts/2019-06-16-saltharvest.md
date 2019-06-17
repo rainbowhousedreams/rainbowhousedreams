@@ -12,12 +12,12 @@ gallery: #copy/paste the section below to add more images
     image_path: https://uc73c220fd630c97978737ecf412.previews.dropboxusercontent.com/p/thumb/AAfr9um7v0CyoIcMXADsmzLvXAlJ9ciinASyorPFJbqXaXnDKNG_ZL4tK-ICo8HyZ3FcelStQbU65OrGjiVbRJPm2OAYYbgWlmKQDQ9qLXsuzTKvTtpLlXHZ3U2ajZbPgLbh096AOYreMezN3ypbdVn1VjaejHC5uQBsezDI9bjSPl69bxMrCeY-b9oOdEyTtU0Cc1O_YcVl0XUsDenfVS-tJcDL0DIBazVrXDu5PHcRNxoTb_3EEfsUZEFqqJ-CqdDJqAjSwy0Bnwo5cDOhx6f6_wEsZQCUWPfUNXM5zAOXujfxGeBEq8DC97HyPCTpEIUVsfX9Juepqh0hS2ImqSxd/p.jpeg # thumbnail (could be same as above, I believe)
     alt: "recumbent tandem bicycle with loaded attached trailer"
     title: "Recumbent tandem, loaded and ready to go"  
-  - url: assets/images/salt-harvest-2019/1.jpg # url for full size image
-    image_path: assets/images/salt-harvest-2019/1.jpg # thumbnail (could be same as above, I believe)
+  - url: https://uc6352fd2e7a72243dd5ae8d86b9.previews.dropboxusercontent.com/p/thumb/AAdtleSOkHVUK2JYL0jzCHkARS5_cV_mPluVta_d6pAqOVpZ8xI4Atu7Qx5OE0dBjm_LXmjDlfG479CuYXxT5vkRgBSGlPeYqlbuq8fOVLrez_scmYery036hPWb8wLGSr6aToh4E-3PNypjEdlEhow1eaX_PRkxJOeuotWXvDv3vCGcNLtazmbj3Gh4DuUJh6aNLMoVCABQ1Y16Wf0tb8Z6kY9d2hvFOt4ow9_4ufcbnWLgao7p55gg4H2lnjkDWwo7BD_EVQ7wZ0u0XaT40jZbrJ6-F6uujN9xYo_APKG_QJG4kFD6Fsw1GQCIThUoaTgIXAiTWNJtjxksQjB-40u5UJN67Xmtqavj4-D_Yi4VL98tiXXizTCgwUCy6Mnk-gE/p.jpeg
+    image_path: https://uc6352fd2e7a72243dd5ae8d86b9.previews.dropboxusercontent.com/p/thumb/AAdtleSOkHVUK2JYL0jzCHkARS5_cV_mPluVta_d6pAqOVpZ8xI4Atu7Qx5OE0dBjm_LXmjDlfG479CuYXxT5vkRgBSGlPeYqlbuq8fOVLrez_scmYery036hPWb8wLGSr6aToh4E-3PNypjEdlEhow1eaX_PRkxJOeuotWXvDv3vCGcNLtazmbj3Gh4DuUJh6aNLMoVCABQ1Y16Wf0tb8Z6kY9d2hvFOt4ow9_4ufcbnWLgao7p55gg4H2lnjkDWwo7BD_EVQ7wZ0u0XaT40jZbrJ6-F6uujN9xYo_APKG_QJG4kFD6Fsw1GQCIThUoaTgIXAiTWNJtjxksQjB-40u5UJN67Xmtqavj4-D_Yi4VL98tiXXizTCgwUCy6Mnk-gE/p.jpeg
     alt: "View of the back of a helmeted head on a tandem bicycle in a forest"
     title: "View from the back seat of the tandem, biking through Siuslaw National Forest"  
-  - url: assets/images/salt-harvest-2019/2.jpg # url for full size image
-    image_path: assets/images/salt-harvest-2019/2.jpg # thumbnail (could be same as above, I believe)
+  - url: https://uce85c12f8bfc24143ab17993b74.previews.dropboxusercontent.com/p/thumb/AAepxS0jeydIjCkNPM_yJCkFHYufSsEPM4lKCM_IQHCIqqpj9l9ljyQlbMh8PGuXFrZ5pA1lNd4p92inByWOsoAjPg4n4onOmAObcg67gVdOdOXWt0lZR2-eNkpbPJyebfM7spN0731PchM24wXaoJrl_Kfxw-dDg1kF8JzUo7Crrluhv8C7Z0hHtvSVDLnraGIEU3XhPYFCw_Ror_sIjCAxdxxs-TFq4l668d3juGRezsC-iKvHmKPCoK4LG1DRr96OJi3P5HlMzyWtnR6O8pOXbN4O84fx6M_VB1M2fPsvRee88B4coI0-EpNTwRaG9WUVB9RI3UYVyxtcRKoMT5YL/p.jpeg 
+    image_path: https://uce85c12f8bfc24143ab17993b74.previews.dropboxusercontent.com/p/thumb/AAepxS0jeydIjCkNPM_yJCkFHYufSsEPM4lKCM_IQHCIqqpj9l9ljyQlbMh8PGuXFrZ5pA1lNd4p92inByWOsoAjPg4n4onOmAObcg67gVdOdOXWt0lZR2-eNkpbPJyebfM7spN0731PchM24wXaoJrl_Kfxw-dDg1kF8JzUo7Crrluhv8C7Z0hHtvSVDLnraGIEU3XhPYFCw_Ror_sIjCAxdxxs-TFq4l668d3juGRezsC-iKvHmKPCoK4LG1DRr96OJi3P5HlMzyWtnR6O8pOXbN4O84fx6M_VB1M2fPsvRee88B4coI0-EpNTwRaG9WUVB9RI3UYVyxtcRKoMT5YL/p.jpeg
     alt: "Darin emerging from the brush"
     title: "Harvesting water"  
   - url: assets/images/salt-harvest-2019/3.jpg # url for full size image
