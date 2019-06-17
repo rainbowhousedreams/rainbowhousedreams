@@ -19,6 +19,38 @@ gallery:
     image_path: assets/images/salt-harvest-2019/2.jpg # thumbnail (could be same as above, I believe)
     alt: "Darin emerging from the brush"
     title: "Harvesting water"  
+  - url: assets/images/salt-harvest-2019/3.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/3.jpg # thumbnail (could be same as above, I believe)
+    alt: "Darin showing off a water filter's blue plastic bag full of water"
+    title: "Water harvested!"  
+  - url: assets/images/salt-harvest-2019/3a.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/3a.jpg # thumbnail (could be same as above, I believe)
+    alt: "photo montage of grocery store salts"
+    title: "Salts we didn't harvest along the way"  
+  - url: assets/images/salt-harvest-2019/4.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/4.jpg # thumbnail (could be same as above, I believe)
+    alt: "View of ocean from the road"
+    title: "Between Whalen Island & Pacific City: Where we harvested ocean water"  
+  - url: assets/images/salt-harvest-2019/5.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/5.jpg # thumbnail (could be same as above, I believe)
+    alt: "some plants, some beach, some ocean, some sky, and the sun"
+    title: "Ocean about 13 miles from where Jacobsen harvests their salt"  
+  - url: assets/images/salt-harvest-2019/6.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/6.jpg # thumbnail (could be same as above, I believe)
+    alt: "silhouette of Darin in the ocean with a 5-gallon bucket"
+    title: "In which Darin wades into the ocean with a bucket"  
+  - url: assets/images/salt-harvest-2019/7.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/7.jpg # thumbnail (could be same as above, I believe)
+    alt: "bike, trailer, and bucket of salt loaded and ready to go.  NO PARKING."
+    title: "Bucket of salt (and bundles of firewood from Pacific City) loaded and ready to take back to camp.  The NO PARKING sign was great for leaning the bike against.   We left the tiny jellyfish in the ocean."  
+  - url: assets/images/salt-harvest-2019/8.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/8.jpg # thumbnail (could be same as above, I believe)
+    alt: "Darin on the tandem with a trailer load of sticks"
+    title: "Darin went off in search of sticks in the road to fuel the fire.  Next year, we're packing lighter and maybe researching firewood harvesting rules for that forest we biked through en route."  
+  - url: assets/images/salt-harvest-2019/9.jpg # url for full size image
+    image_path: assets/images/salt-harvest-2019/9.jpg # thumbnail (could be same as above, I believe)
+    alt: "Angel holds a ladle"
+    title: "Ladling ocean into a cooking pot.  Using a ladle means the smidge of sand stays in the bottom of the bucket.  (The campground hosts were delighted to take our 5-gallon deli pickle bucket when we were done with it.)"  
 ---
 
 {% include gallery caption="In which we harvest salt at the Oregon Coast" %}
