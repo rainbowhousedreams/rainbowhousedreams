@@ -4,8 +4,6 @@ comments: true
 date: 2019-01-12 19:29:53+00:00
 excerpt: compost purchasing options and something learned from a radical gardening
   book
-layout: post
-link: http://gardensofrainbow.home.blog/2019/01/12/we-got-some-compost/
 slug: we-got-some-compost
 title: We got some compost!
 wordpress_id: 33
