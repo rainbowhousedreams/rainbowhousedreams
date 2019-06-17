@@ -14,6 +14,7 @@ categories:
 - Current Reading
 - Planning
 - Sunflower Patch
+- Gardens
 tags:
 - gardening
 - soil
