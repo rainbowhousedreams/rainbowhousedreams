@@ -91,7 +91,7 @@ gallery: #copy/paste the section below to add more images
 ### Quantities: salt, ocean, firewood
 - It takes about **2-3 standard campground bundles of wood** to boil off one 5-gallon bucket of water.  
 - The ocean is about 3% salt, so **5 gallons of water contains about a pound of salt.**  
-- A quick internet search and a bit of math tells me that, nutritionally speaking, you need definitely less than two pounds of salt, but maybe a bit more than a pound of salt per person per year.  So the salt from **10 gallons of ocean** (which we harvested in a day, but didn't time it well, and were hot in the midday and done before the mosquitoes came out at night) should be **enough for one person for a year.**  
+- A quick internet search and a bit of math tells me that, nutritionally speaking, you need definitely less than two pounds of salt, but maybe a bit more than a pound of salt per person per year.  So the salt from **10 gallons of ocean** (which we harvested in a day, but didn't time it well, and were hot in the midday and done before the mosquitoes came out at night) should be quite **enough for one person for a year.**  
 
 
 ### Photo Tour
