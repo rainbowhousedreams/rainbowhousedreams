@@ -4,8 +4,6 @@ comments: true
 date: 2019-04-10 04:38:37+00:00
 excerpt: here's what we've been up to in our pedal-powered (solar powered) garden
   lately.
-layout: post
-link: http://gardensofrainbow.home.blog/2019/04/09/the-latest/
 slug: the-latest
 title: The Latest
 wordpress_id: 67
