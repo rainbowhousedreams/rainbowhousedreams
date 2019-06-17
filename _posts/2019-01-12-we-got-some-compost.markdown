@@ -13,6 +13,7 @@ categories:
 - 'Annex #2'
 - Current Reading
 - Planning
+- Gardens
 ---
 
 We had several options for compost:
