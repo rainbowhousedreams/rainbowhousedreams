@@ -1,7 +1,5 @@
 main:
   - title: "Gardens"
     url: /gardens/
-  - title: "Sprouts"
-    url: /sprouts/
   - title: "People"
     url: /people/
